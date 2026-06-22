@@ -1,0 +1,20 @@
+ip,os,port,name,product,version
+192.168.0.101,Unknown,53,tcpwrapped,,
+192.168.0.101,Unknown,80,http,mini_httpd,x.x
+192.168.0.101,Unknown,443,https,,
+192.168.0.101,Unknown,53,tcpwrapped,,
+192.168.0.101,Unknown,80,http,mini_httpd,x.x
+192.168.0.101,Unknown,53,tcpwrapped,,
+192.168.0.101,Unknown,80,http,mini_httpd,x.x
+192.168.0.101,Unknown,53,tcpwrapped,,
+192.168.0.101,Unknown,80,http,mini_httpd,x.x
+192.168.0.101,Unknown,443,https,,
+192.168.1.1,Unknown,53,domain,dnsmasq,
+192.168.1.1,Unknown,80,http,mini_httpd,x.x
+192.168.0.101,Unknown,53,tcpwrapped,,
+192.168.0.101,Unknown,80,http,mini_httpd,x.x
+192.168.1.1,Unknown,53,domain,dnsmasq,
+192.168.1.1,Unknown,80,http,mini_httpd,x.x
+192.168.1.7,Unknown,139,netbios-ssn,Microsoft Windows netbios-ssn,
+192.168.0.101,Unknown,53,tcpwrapped,,
+192.168.0.101,Unknown,80,http,mini_httpd,x.x
